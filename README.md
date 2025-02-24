@@ -125,8 +125,3 @@
 </body>
 
 </html>
-16
-
-参考文献
-[1]中国消费者报. 8 June 2022, zxbwx.ccn.com.cn/date/2022-06-08. [2]各国膳食指南_中国居民膳食指南. dg.cnsoc.org/newslist_0501_1.htm. [3]解锁奶茶新“绿”意——中国新茶饮行业减塑路径研究报告-太平洋环境资源中 心(美国)驻重庆代表处. www.pacificenvironment.cn/newsinfo/7543502.html. [4]World Health Organization: WHO. Food Fortification. 18 Jan.
-2022, www.who.int/health-topics/food-fortification#tab=tab_1.
