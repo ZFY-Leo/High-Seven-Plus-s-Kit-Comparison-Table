@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>奶精含量对照表</title>
+    <title>牛奶含量对照表</title>
     <style>
         .container {
             height: 100%;
@@ -64,7 +64,7 @@
 
 <body>
     <div class="container">
-        <h1>您的奶茶奶精含量</h1>
+        <h1>您的奶茶牛奶含量</h1>
         <ul class="left">
              <li class="first" style="background: #350D0D;">
 
@@ -97,28 +97,28 @@
         <ul class="right">
             <li>
 
-                0%-10%😁
+                0%-10%😈
             </li>
             <li>
-                20%😋
+                20%😡
             </li>
             <li>
-                20%-30%🙂
+                20%-30%😠
             </li>
             <li>
                 50%🙃
             </li>
             <li>
-                70%😒
+                70%🙂
             </li>
             <li>
-                80%😔
+                80%😀
             </li>
             <li>
-                95%😡
+                95%😋
             </li>
             <li>
-                100%😈
+                100%😝
             </li>
         </ul>
     </div>
