@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>牛奶含量对照表</title>
+    <title>Milk Content Comparison Table</title>
     <style>
         .container {
             height: 100%;
@@ -64,7 +64,7 @@
 
 <body>
     <div class="container">
-        <h1>您的奶茶牛奶含量</h1>
+        <h1>The milk content of the milk tea</h1>
         <ul class="left">
              <li class="first" style="background: #350D0D;">
 
